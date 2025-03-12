@@ -1,0 +1,6 @@
+{
+    "editor.comments.insertSpace": true,
+    "editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"editor.autoIndent": "full"
+}

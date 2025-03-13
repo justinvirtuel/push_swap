@@ -52,3 +52,5 @@ int		sort_three_b(t_stacks *stack, int len)
 
 // quick sort
 void	quick_sort_a_and_b(t_stacks *stack, int len);
+int		quick_sort_a(t_stacks *stack, int len, int rotations);
+int		quick_sort_b(t_stacks *stack, int len, int rotations);
